@@ -1,20 +1,20 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "fr"
+languageName = "Français"
 weight = 1
 title = "Blog - Antoine Sesini"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Français"
+  isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Some infrastructure, network and dev."
+  description = "Un peu d'infrastructure, de réseau et de dev."
 
 [params.author]
   name = "Antoine Sesini"
   image = "img/avatar.jpeg"
-  headline = "✨ Some infrastructure, network and dev. ✨"
-  bio = "✨ Some infrastructure, network and dev. ✨"
+  headline = "✨ Un peu d'infrastructure, de réseau et de dev. ✨"
+  bio = "✨ Un peu d'infrastructure, de réseau et de dev. ✨"
   links = [
     { linkedin = "https://linkedin.com/in/antoine-sesini-a77b98202" },
     { github = "https://github.com/antoinesesini" },

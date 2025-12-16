@@ -43,6 +43,6 @@
    weight = 10
 
  [[footer]]
-   name = "Authors"
+   name = "Auteurs"
    pageRef = "authors"
    weight = 20
