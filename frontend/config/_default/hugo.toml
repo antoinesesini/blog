@@ -3,8 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
-defaultContentLanguage = "fr"
+baseURL = "https://blog.asesini.fr"
+defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -28,8 +28,6 @@ googleAnalytics = "G-PEDMYR1V0K"
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
-  author = "authors"
   series = "series"
 
 [sitemap]
