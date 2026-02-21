@@ -18,6 +18,6 @@ My expertise also extends to deployment and infrastructure management, with regu
 
 My work primarily revolves around **scalability**, **availability**, **performance and cost optimization**, and—above all—**technological sovereignty**. The latter is what drives me the most: building systems that are realistic, constrained by rules we control, and free from legal or technical dependence on any external authority. This often means challenging assumptions we once took for granted, at every stage—from initial concept to final deployment (and beyond).
 
-Learning to build and deploy differently is what inspires me to share my insights here (see [Articles](/fr/articles)). This blog also serves as a showcase for various public and private services I test or develop in my free time (check out the [Services](/fr/services) section).
+Learning to build and deploy differently is what inspires me to share my insights here (see [Articles](/en/articles/)). This blog also serves as a showcase for various public and private services I test or develop in my free time (check out the [Services](/en/services/) section).
 
 For everything else, or just to connect, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/antoine-sesini-a77b98202/)!

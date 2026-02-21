@@ -18,6 +18,6 @@ Mon apprentissage s’étend également aux outils de déploiement et de gestion
 
 Mes principaux sujets de travail tournent autour de la **scalabilité**, de la **disponibilité**, de l’**optimisation des performances et des coûts**, et surtout de la **souveraineté technologique**. Ce dernier point est celui qui m’anime le plus : il s’agit de construire des systèmes différents, réalistes, contraints par des règles que nous maîtrisons, et qui ne dépendent ni juridiquement ni techniquement d’une autorité extérieure, quelle qu’en soit la forme. Cela implique souvent de remettre en question des facilités que nous prenions pour acquises, et ce, à chaque étape : de l’idée initiale au déploiement final (et même au-delà).
 
-Apprendre à construire et déployer autrement est ce qui me motive à partager ici (voir [Articles](/fr/articles)) les enseignements que j’en tire. Ce blog servira aussi — et surtout — de vitrine pour divers services publics et privés que je teste ou développe pendant mon temps libre (voir l’onglet [Services](/fr/services)).
+Apprendre à construire et déployer autrement est ce qui me motive à partager ici (voir [Articles](/fr/articles/)) les enseignements que j’en tire. Ce blog servira aussi — et surtout — de vitrine pour divers services publics et privés que je teste ou développe pendant mon temps libre (voir l’onglet [Services](/fr/services/)).
 
 Pour le reste, ou pour échanger, n’hésitez pas à me retrouver sur [LinkedIn](https://www.linkedin.com/in/antoine-sesini-a77b98202/).
